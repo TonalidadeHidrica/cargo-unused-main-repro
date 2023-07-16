@@ -1,0 +1,7 @@
+[package]
+name = "cargo-unused-main-repro"
+version = "0.1.0"
+edition = "2021"
+default-run = "cargo-unused-main-repro"
+
+[dependencies]
