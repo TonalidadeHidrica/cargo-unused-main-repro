@@ -1,2 +1,4 @@
 mod b;
-fn main() {}
+fn main() {
+    println!("Hello a!");
+}
